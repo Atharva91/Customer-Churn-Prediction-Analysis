@@ -12,6 +12,7 @@ This project Consist of :
 3.) Power BI Dashboard
 
  Workflow for the Project(Main file) is :
+ 
  1.) Loading the Dataset and finding the general trends.
  
  2.) Performing EDA (Exploratory Data Analysis):- 
