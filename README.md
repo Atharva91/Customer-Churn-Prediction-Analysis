@@ -11,6 +11,8 @@ This project Consist of :
 
 3.) Power BI Dashboard
 
+4.) PDF for IPYNB
+
  Workflow for the Project(Main file) is :
  
  1.) Loading the Dataset and finding the general trends.
