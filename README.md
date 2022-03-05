@@ -23,4 +23,4 @@ This project Consist of :
  
  5.) Selection of Proper Evaluation Metrics. 
  
- 5.) Model Training - Selection of different Models to try to increase our performance.
+ 6.) Model Training - Selection of different Models to try to increase our performance.
