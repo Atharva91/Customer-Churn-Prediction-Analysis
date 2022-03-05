@@ -4,7 +4,7 @@ Finding the Potential Churning Rate also gives us the Idea about the retention r
 then the organiztion can use various multiple startergies like offering Discounts or giving an extension in their current plan for maximizing Retention.
 
 This project Consist of :
-1.) Main file - Where all the code is wriiten
+1.) Main file ( Churn Pred Analysis) - Where all the code is wriiten
 2.) PPT - A brief presentation of Churn Prediction Analysis
 3.) Power BI Dashboard
 
