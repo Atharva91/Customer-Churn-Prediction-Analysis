@@ -1,7 +1,7 @@
 # Customer-Churn-Prediction-Analysis
 The Project emphasizes upon finding the potential churners associated with an organization. We have Considered a global Telecommunication Dataset for our Project.
 Finding the Potential Churning Rate also gives us the Idea about the retention rate for an organization. If we are able to predict Customer who might churn in a short span of time 
-then the organiztion can use various multiple startergies like offering Discounts or giving an extension in their current plan for maximizing Retention.
+then the organiztion can use various multiple strategies like offering Discounts or giving an extension in their current plan for maximizing Retention.
 
 This project Consist of :
 
