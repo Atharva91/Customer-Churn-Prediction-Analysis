@@ -5,7 +5,7 @@ then the organiztion can use various multiple strategies like offering Discounts
 
 This project Consist of :
 
-1.) Main file ( Churn Pred Analysis) - Where all the code is wriiten
+1.) Main file ( Churn Pred Analysis) - Where all the code is written
 
 2.) PPT - A brief presentation of Churn Prediction Analysis
 
